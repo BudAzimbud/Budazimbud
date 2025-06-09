@@ -22,7 +22,7 @@ const developer = {
 ```
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=budazimbud&show_icons=true&theme=radical)
 
 ## 🌟 Fun Facts
 - ☕ Powered by coffee and curiosity
