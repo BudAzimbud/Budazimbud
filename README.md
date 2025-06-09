@@ -24,6 +24,12 @@ const developer = {
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=budazimbud&show_icons=true&theme=radical)
 
+<div style="text-align: center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wsfuller&count_private=true&show_icons=true&theme=prussian" width="400">
+<br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsfuller&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</div>
+
 ## 🌟 Fun Facts
 - ☕ Powered by coffee and curiosity
 - 🎮 When not coding, you'll find me [hobby/interest]
