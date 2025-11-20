@@ -13,8 +13,8 @@
 ## 🛠️ Tech Arsenal
 ```javascript
 const developer = {
-    languages: ["JavaScript", "Python", "TypeScript", "Go"],
-    frameworks: ["React", "Node.js", "Express", "Django"],
+    languages: ["JavaScript", "PHP", "TypeScript", "Go"],
+    frameworks: ["React", "Node.js", "Express", "Laravel"],
     tools: ["Docker", "Git", "AWS", "MongoDB"],
     architecture: ["Microservices", "REST APIs", "GraphQL"],
     currentFocus: "Building scalable web applications"
