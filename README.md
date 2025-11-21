@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Azim!
 
-🚀 **Code Explorer** | **Problem Solver** | **Digital Architect**
+🚀 **Code Explorer** | **Problem Solver** | **Contributor**
 
 ---
 
