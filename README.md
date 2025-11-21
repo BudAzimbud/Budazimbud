@@ -32,9 +32,9 @@ const developer = {
 
 ## 🌟 Fun Facts
 - ☕ Powered by coffee and curiosity
-- 🎮 When not coding, you'll find me [hobby/interest]
+- 🎮 When not coding, you'll find me planting
 - 🌍 Believer in open source and collaborative development
-- 📚 Currently reading: **[book you're reading]**
+- 📚 Currently reading: **What's my bos think**
 
 ---
 
