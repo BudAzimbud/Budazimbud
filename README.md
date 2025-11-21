@@ -5,8 +5,8 @@
 ---
 
 ## 💫 What I'm About
-- 🔭 Currently working on **[your current project]**
-- 🌱 Learning **[technologies you're studying]**
+- 🔭 Currently working on **msteams-azim**
+- 🌱 Learning **N8N**
 - 💡 Passionate about **clean code** and **innovative solutions**
 - 🎯 Always looking for the next challenge to tackle
 
